@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-uonzp/static/css/main.6d246aa2.chunk.css",
-    "main.js": "https://.github.io/csb-uonzp/static/js/main.50a7a01d.chunk.js",
-    "main.js.map": "https://.github.io/csb-uonzp/static/js/main.50a7a01d.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-uonzp/static/js/runtime-main.118bda5f.js",
-    "runtime-main.js.map": "https://.github.io/csb-uonzp/static/js/runtime-main.118bda5f.js.map",
-    "static/js/2.65ef10e3.chunk.js": "https://.github.io/csb-uonzp/static/js/2.65ef10e3.chunk.js",
-    "static/js/2.65ef10e3.chunk.js.map": "https://.github.io/csb-uonzp/static/js/2.65ef10e3.chunk.js.map",
-    "index.html": "https://.github.io/csb-uonzp/index.html",
-    "static/css/main.6d246aa2.chunk.css.map": "https://.github.io/csb-uonzp/static/css/main.6d246aa2.chunk.css.map",
-    "static/js/2.65ef10e3.chunk.js.LICENSE.txt": "https://.github.io/csb-uonzp/static/js/2.65ef10e3.chunk.js.LICENSE.txt"
+    "main.css": "https://baonguyen12b32000.github.io/csb-uonzp/static/css/main.eae5b760.chunk.css",
+    "main.js": "https://baonguyen12b32000.github.io/csb-uonzp/static/js/main.50a7a01d.chunk.js",
+    "main.js.map": "https://baonguyen12b32000.github.io/csb-uonzp/static/js/main.50a7a01d.chunk.js.map",
+    "runtime-main.js": "https://baonguyen12b32000.github.io/csb-uonzp/static/js/runtime-main.82d728d4.js",
+    "runtime-main.js.map": "https://baonguyen12b32000.github.io/csb-uonzp/static/js/runtime-main.82d728d4.js.map",
+    "static/js/2.65ef10e3.chunk.js": "https://baonguyen12b32000.github.io/csb-uonzp/static/js/2.65ef10e3.chunk.js",
+    "static/js/2.65ef10e3.chunk.js.map": "https://baonguyen12b32000.github.io/csb-uonzp/static/js/2.65ef10e3.chunk.js.map",
+    "index.html": "https://baonguyen12b32000.github.io/csb-uonzp/index.html",
+    "static/css/main.eae5b760.chunk.css.map": "https://baonguyen12b32000.github.io/csb-uonzp/static/css/main.eae5b760.chunk.css.map",
+    "static/js/2.65ef10e3.chunk.js.LICENSE.txt": "https://baonguyen12b32000.github.io/csb-uonzp/static/js/2.65ef10e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.118bda5f.js",
+    "static/js/runtime-main.82d728d4.js",
     "static/js/2.65ef10e3.chunk.js",
-    "static/css/main.6d246aa2.chunk.css",
+    "static/css/main.eae5b760.chunk.css",
     "static/js/main.50a7a01d.chunk.js"
   ]
 }
